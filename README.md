@@ -25,11 +25,10 @@ Check it out live here: [CDR Dashboard](https://cdr-dashboard.vercel.app/)
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Screenshot](./screenshots/screenshot.png)
+![Dashboard Screenshot](screenshots/screenshots/screenshot.png)
 
 ### Call Activity Timeline
-![Timeline Screenshot](./screenshots/screenshot2.png)
-
+![Second Screenshot](screenshots/screenshots/screenshot2.png)
 ---
 
 ## Technology Stack
